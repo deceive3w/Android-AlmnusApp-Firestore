@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "787078777054",
+    "firebase_url": "https://alumnusapp-4c4e8.firebaseio.com",
+    "project_id": "alumnusapp-4c4e8",
+    "storage_bucket": "alumnusapp-4c4e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787078777054:android:9a099e731a4ccca3",
+        "android_client_info": {
+          "package_name": "com.example.root.alumnusapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787078777054-25kepft7fbrbrhem7odkmtr1vk7vqpps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.root.alumnusapp",
+            "certificate_hash": "9d7cb0e71c41b14751df78f9068af8a79bc9f9ed"
+          }
+        },
+        {
+          "client_id": "787078777054-he70u1t797gsrrg0vgu5f0fu0mt5fg1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcwiat4lINuVdAJHbp3RrvAXxO4uKtCfA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787078777054-he70u1t797gsrrg0vgu5f0fu0mt5fg1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
